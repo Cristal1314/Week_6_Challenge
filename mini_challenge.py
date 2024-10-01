@@ -86,10 +86,10 @@ print(raffle.add("Gunther"))
 test = {"Are apples red?": "True"}
 # Booleans Practice #2
 # Check if 17834/34 is greater than 87*56 and print the boolean result to the screen using print()
-if 17834/34 > 87*56
-print ("yes slayyy it is greater ")
+if 17834/34 > 87*56: 
+    print("yes slayyy it is greater ")
 else:
-print("No booo go to math class 87*56 is greater ")
+    print("No booo go to math class 87*56 is greater")
 # Booleans Practice #3
 # Check if the square root of 25 is equal to 5 and display the result (boolean) on the screen using print()
 
