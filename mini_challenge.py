@@ -83,11 +83,11 @@ print(raffle.add("Gunther"))
 
 # Booleans Practice #1
 # Make a comparison that returns a boolean and store the result (True/False) in a variable called test
-test = 
+test = {"Are apples red?": "True"}
 # Booleans Practice #2
 # Check if 17834/34 is greater than 87*56 and print the boolean result to the screen using print()
 if 17834/34 > 87*56
-print ("yes slayyy")
+print ("yes slayyy it is greater ")
 else:
 print("No booo go to math class 87*56 is greater ")
 # Booleans Practice #3
